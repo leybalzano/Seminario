@@ -21,10 +21,10 @@ Requerimientos del software de sistemas de baches .
 8) Trasncurrido un tiempo determinado, se le solicitara al usuario que confirme si el obstaculo fue o no reparado.
 
 9) Deberá tener un Login Screen con las siguientes opciones:
-          -Registrarse: Le pedira nombre, apellido, email y contraseña
+          -Registrarse: Le pedira nombre, apellido, email y contraseña.
           -Loguearse: 
-                        -Le pedira usuario y contraseña, para luego ingresar al mapa
-                        -Podra ingresara con su cuenta de Facebook, para luego ir al mapa
-          -Anonimo: Lo llevara al mapa directamente
+                        -Le pedira usuario y contraseña, para luego ingresar al mapa.
+                        -Podra ingresara con su cuenta de Facebook, para luego ir al mapa.
+          -Anonimo: Lo llevara al mapa directamente.
 
 10) La App debe estar disponible para su descarga en el PlayStore para Andriod y en la Tienda Window para Windows phone.
