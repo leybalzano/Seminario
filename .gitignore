@@ -1,5 +1,13 @@
 Requerimientos del software de sistemas de baches .
 
-1)
+1)el sistema  debera tener tres tipos de permisos:
+    1.1 anonimos: solo podra ingresar y ver lo publicado en el sistema.
+    1.2 usuarios: tendran que loguease para unicamente poder  publicar.
+    1.3 administrador: tendran permisos totales  sobre el sistema .
+
+
+
+
+
 2)
 3)
