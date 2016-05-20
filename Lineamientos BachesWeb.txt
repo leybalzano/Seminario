@@ -1,0 +1,22 @@
+Breve descripción Sistema web:
+
+	Se concluye luego varias opciones por el desarrollo de una página web que permita cargar a través de google maps puntos de obstáculos en la vía pública, teniendo un impacto social participativo que involucre a la ciudadanía toda. Permitir almacenar en una base de datos información de reclamos, cualquier objeto que obstaculice la normal circulación en la vía pública, ya sea calles o veredas. Abarcando Rosario y la Región.
+	La información recopilada será compartida con el/los Municipios intervinientes que deseen participar.   
+
+Objetivos:
+
+	Permitirle al transeúnte particular que pueda a través de la tecnología web, aplicada en un dispositivo móvil o pc tradicional, el ingreso de reclamos en un mapa que registrará la dirección y punto que afecte la normal convivencia ciudadana, llámese obstáculos.
+	La municipalidad correspondiente recibirá dicha información para resolver el reclamo. El usuario podrá darle el seguimiento al mencionado obstáculo para determinar si fue resuelto o renovar el reclamo.
+
+¿Qué implicancia tendrá?
+
+	Se pretende llegar a la región gran Rosario, siendo una herramienta de impacto social, donde el reclamo será derivado a la municipalidad a través de un informe automatizado periódicamente, que le permita al órgano regulador gestionar la solución correspondiente.
+
+
+
+
+
+
+
+Escrito por:
+Daniel Coronel
