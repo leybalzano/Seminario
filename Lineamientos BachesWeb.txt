@@ -1,16 +1,23 @@
-Breve descripciÛn Sistema web:
+Breve descripci√≥n Sistema web:
 
-	Se concluye luego varias opciones por el desarrollo de una p·gina web que permita cargar a travÈs de google maps puntos de obst·culos en la vÌa p˙blica, teniendo un impacto social participativo que involucre a la ciudadanÌa toda. Permitir almacenar en una base de datos informaciÛn de reclamos, cualquier objeto que obstaculice la normal circulaciÛn en la vÌa p˙blica, ya sea calles o veredas. Abarcando Rosario y la RegiÛn.
-	La informaciÛn recopilada ser· compartida con el/los Municipios intervinientes que deseen participar.   
-
+	Se concluye luego varias opciones por el desarrollo de una p√°gina web que permitir√°:
+	
+	1- Loguear al usuario por su red social de Google+, Facebook, y twitter.
+	2- Cargar reclamos de obstaculos en la via publica con vi√±etas predefinidas y localizacion en google maps.
+	3- Cargar foto de obstaculo y subirlo al sistema con la geolocalizacion. 
+	3- El sistema Permitir√° almacenar en una base de datos informaci√≥n de reclamos, 
+	4- La informaci√≥n recopilada ser√° compartida con el/los Municipios intervinientes que deseen participar.
+	5- El sistema tendr√° reportes periodicos a definir para informar cantidad de obstaculos y fechas de los mismos.  
+	
+respecto a objeto que obstaculice la normal circulaci√≥n en la v√≠a p√∫blica, ya sea calles o veredas. Abarcando Rosario y la Regi√≥n.
 Objetivos:
 
-	Permitirle al transe˙nte particular que pueda a travÈs de la tecnologÌa web, aplicada en un dispositivo mÛvil o pc tradicional, el ingreso de reclamos en un mapa que registrar· la direcciÛn y punto que afecte la normal convivencia ciudadana, ll·mese obst·culos.
-	La municipalidad correspondiente recibir· dicha informaciÛn para resolver el reclamo. El usuario podr· darle el seguimiento al mencionado obst·culo para determinar si fue resuelto o renovar el reclamo.
+	Permitirle al transe√∫nte particular que pueda a trav√©s de la tecnolog√≠a web, aplicada en un dispositivo m√≥vil o pc tradicional, el ingreso de reclamos en un mapa que registrar√° la direcci√≥n y punto que afecte la normal convivencia ciudadana, ll√°mese obst√°culos.
+	La municipalidad correspondiente recibir√° dicha informaci√≥n para resolver el reclamo. El usuario podr√° darle el seguimiento al mencionado obst√°culo para determinar si fue resuelto o renovar el reclamo.
 
-øQuÈ implicancia tendr·?
+¬øQu√© implicancia tendr√°?
 
-	Se pretende llegar a la regiÛn gran Rosario, siendo una herramienta de impacto social, donde el reclamo ser· derivado a la municipalidad a travÈs de un informe automatizado periÛdicamente, que le permita al Ûrgano regulador gestionar la soluciÛn correspondiente.
+	Se pretende llegar a la regi√≥n gran Rosario, siendo una herramienta de impacto social, donde el reclamo ser√° derivado a la municipalidad a trav√©s de un informe automatizado peri√≥dicamente, que le permita al √≥rgano regulador gestionar la soluci√≥n correspondiente.
 
 
 
